@@ -1,0 +1,57 @@
+{
+  "name": "ishop",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://ishopnow.ml",
+  "dependencies": {
+    "@dannymichel/proxima-nova": "^4.5.2",
+    "@radix-ui/react-hover-card": "^1.0.2",
+    "@radix-ui/react-navigation-menu": "^1.1.1",
+    "@radix-ui/react-popover": "1.0.2",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@trendyol-js/react-carousel": "^3.0.0",
+    "font-proxima-nova": "^1.0.1",
+    "react": "^18.2.0",
+    "react-alice-carousel": "^2.6.6",
+    "react-carousel": "^4.3.0",
+    "react-dom": "^18.2.0",
+    "react-dropdown": "^1.11.0",
+    "react-dropdown-select": "^4.9.0",
+    "react-flexbox-slim": "^1.1.1",
+    "react-grid-system": "^8.1.6",
+    "react-rating": "^2.0.5",
+    "react-rating-stars-component": "^2.2.0",
+    "react-responsive-carousel": "^3.2.23",
+    "react-scripts": "5.0.1",
+    "react-slick": "^0.29.0",
+    "react-tabs": "^5.1.0",
+    "slick-carousel": "^1.8.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "D:/HTML/Ecomm-React/ishop/node_modules/.bin/react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
